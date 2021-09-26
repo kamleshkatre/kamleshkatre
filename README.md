@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kamleshkatre
-- 👀 I’m interested in data science projects
-- 🌱 I’m currently learning data science technologies
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in Python/Java project
+- 🌱 I’m currently learning data science technologies .
+- 💞️ I’m looking to collaborate on python /java projects ,Data science projects are prefrable .
 - 📫 you can connect me via call +91 9039794997 or email katrekamlesh7@gmail.com
 
 <!---
